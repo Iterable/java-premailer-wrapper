@@ -4,7 +4,7 @@
 	<groupId>org.mdedetrich</groupId>
 	<artifactId>java-premailer-wrapper</artifactId>
 	<packaging>jar</packaging>
-	<version>1.2_1.8.6</version>
+	<version>1.3_1.8.6</version>
 	<name>java-premailer-wrapper</name>
     <description>java-premailer-wrapper</description>
 	<url>https://github.com/mdedetrich/java-premailer-wrapper</url>
